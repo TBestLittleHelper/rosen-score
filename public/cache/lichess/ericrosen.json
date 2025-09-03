@@ -1,7 +1,7 @@
 {
-  "cache_updated_at": 1749598908175,
-  "games_analyzed": 38935,
-  "moves_analyzed": 3095310,
+  "cache_updated_at": 1756861570387,
+  "games_analyzed": 39815,
+  "moves_analyzed": 3168495,
   "trophies": {
     "pawnCheckmate": {
       "sR0PUkvY": {
@@ -2067,6 +2067,46 @@
           "title": ""
         },
         "link": "https://lichess.org/xiqdmW1R#77"
+      },
+      "NlqbeJY7": {
+        "date": "2025-07-12",
+        "opponent": {
+          "username": "supermanA",
+          "title": "CM"
+        },
+        "link": "https://lichess.org/NlqbeJY7#119"
+      },
+      "p5esx3TD": {
+        "date": "2025-06-14",
+        "opponent": {
+          "username": "daahmyrook",
+          "title": ""
+        },
+        "link": "https://lichess.org/p5esx3TD/black#62"
+      },
+      "bpo8ySIr": {
+        "date": "2025-06-14",
+        "opponent": {
+          "username": "daahmyrook",
+          "title": ""
+        },
+        "link": "https://lichess.org/bpo8ySIr/black#72"
+      },
+      "d6DxquPU": {
+        "date": "2025-06-14",
+        "opponent": {
+          "username": "TLTLTLTLTLTLTLTLTIT",
+          "title": ""
+        },
+        "link": "https://lichess.org/d6DxquPU#71"
+      },
+      "65SPRvxt": {
+        "date": "2025-06-14",
+        "opponent": {
+          "username": "MeTooSlow",
+          "title": ""
+        },
+        "link": "https://lichess.org/65SPRvxt#85"
       }
     },
     "pawnCube": {
@@ -2517,6 +2557,14 @@
           "title": ""
         },
         "link": "https://lichess.org/zOtGeKel/black#142"
+      },
+      "U1Ybsgef": {
+        "date": "2025-06-14",
+        "opponent": {
+          "username": "AydIn0722",
+          "title": ""
+        },
+        "link": "https://lichess.org/U1Ybsgef#17"
       }
     },
     "rosenTrap": {
@@ -3111,6 +3159,22 @@
           "title": "CM"
         },
         "link": "https://lichess.org/ZtDPKZ3o#90"
+      },
+      "QjQ21pLX": {
+        "date": "2025-08-23",
+        "opponent": {
+          "username": "Ghost-lupinx",
+          "title": "FM"
+        },
+        "link": "https://lichess.org/QjQ21pLX/black#103"
+      },
+      "pYrg58lz": {
+        "date": "2025-06-12",
+        "opponent": {
+          "username": "Gyaggy17",
+          "title": ""
+        },
+        "link": "https://lichess.org/pYrg58lz/black#123"
       }
     },
     "stalemateTricks": {
@@ -5273,6 +5337,70 @@
           "title": "FM"
         },
         "link": "https://lichess.org/e5eemgIs#120"
+      },
+      "yGQHN5aw": {
+        "date": "2025-08-23",
+        "opponent": {
+          "username": "xasid",
+          "title": "IM"
+        },
+        "link": "https://lichess.org/yGQHN5aw/black#153"
+      },
+      "QjQ21pLX": {
+        "date": "2025-08-23",
+        "opponent": {
+          "username": "Ghost-lupinx",
+          "title": "FM"
+        },
+        "link": "https://lichess.org/QjQ21pLX/black#103"
+      },
+      "RYicIRDR": {
+        "date": "2025-06-20",
+        "opponent": {
+          "username": "SULIKMASTER",
+          "title": "CM"
+        },
+        "link": "https://lichess.org/RYicIRDR/black#139"
+      },
+      "E8ClEbVp": {
+        "date": "2025-06-14",
+        "opponent": {
+          "username": "daahmyrook",
+          "title": ""
+        },
+        "link": "https://lichess.org/E8ClEbVp#100"
+      },
+      "1CKxo8bw": {
+        "date": "2025-06-14",
+        "opponent": {
+          "username": "aIex_k",
+          "title": ""
+        },
+        "link": "https://lichess.org/1CKxo8bw#98"
+      },
+      "pYrg58lz": {
+        "date": "2025-06-12",
+        "opponent": {
+          "username": "Gyaggy17",
+          "title": ""
+        },
+        "link": "https://lichess.org/pYrg58lz/black#123"
+      },
+      "EjzCg84f": {
+        "date": "2025-06-12",
+        "opponent": {
+          "username": "Gyaggy17",
+          "title": ""
+        },
+        "link": "https://lichess.org/EjzCg84f#110"
+      },
+      "lbmWeKpW": {
+        "date": "2025-06-11",
+        "opponent": {
+          "username": "LANCELOT_06",
+          "title": "IM"
+        },
+        "link": "https://lichess.org/lbmWeKpW#112"
       }
     },
     "ohNoMyQueen": {
@@ -6379,6 +6507,14 @@
           "title": ""
         },
         "link": "https://lichess.org/zoPy8HGp#45"
+      },
+      "w71VoEgg": {
+        "date": "2025-06-14",
+        "opponent": {
+          "username": "MeTooSlow",
+          "title": ""
+        },
+        "link": "https://lichess.org/w71VoEgg/black#48"
       }
     },
     "clutchPawn": {
@@ -7171,6 +7307,22 @@
           "title": ""
         },
         "link": "https://lichess.org/OZKOerKW#25"
+      },
+      "0vJJe31P": {
+        "date": "2025-06-14",
+        "opponent": {
+          "username": "AydIn0722",
+          "title": ""
+        },
+        "link": "https://lichess.org/0vJJe31P#57"
+      },
+      "7hGRAPsd": {
+        "date": "2025-06-14",
+        "opponent": {
+          "username": "AntiberserkM",
+          "title": ""
+        },
+        "link": "https://lichess.org/7hGRAPsd/black#46"
       }
     },
     "pawnDiamond": {
@@ -8221,6 +8373,14 @@
           "title": ""
         },
         "link": "https://lichess.org/zOtGeKel/black#140"
+      },
+      "MSePNwE9": {
+        "date": "2025-08-09",
+        "opponent": {
+          "username": "xasid",
+          "title": "IM"
+        },
+        "link": "https://lichess.org/MSePNwE9/black#28"
       }
     },
     "winInsufficientMaterial": {
@@ -8751,6 +8911,22 @@
           "title": "FM"
         },
         "link": "https://lichess.org/aY6nGvWo/black#176"
+      },
+      "pw23bXqi": {
+        "date": "2025-08-09",
+        "opponent": {
+          "username": "Andrey11976",
+          "title": "NM"
+        },
+        "link": "https://lichess.org/pw23bXqi#131"
+      },
+      "KY6WKjc9": {
+        "date": "2025-06-14",
+        "opponent": {
+          "username": "AydIn0722",
+          "title": ""
+        },
+        "link": "https://lichess.org/KY6WKjc9/black#96"
       }
     },
     "doubleCheckCheckmate": {
@@ -9883,6 +10059,22 @@
           "title": ""
         },
         "link": "https://lichess.org/C0hJcYV4/black#44"
+      },
+      "12Mb76VG": {
+        "date": "2025-06-12",
+        "opponent": {
+          "username": "Gyaggy17",
+          "title": ""
+        },
+        "link": "https://lichess.org/12Mb76VG#41"
+      },
+      "zIfPQNVp": {
+        "date": "2025-06-12",
+        "opponent": {
+          "username": "Gyaggy17",
+          "title": ""
+        },
+        "link": "https://lichess.org/zIfPQNVp#57"
       }
     },
     "pawnStormOpening": {
@@ -10701,6 +10893,22 @@
           "title": ""
         },
         "link": "https://lichess.org/JDexLRVL"
+      },
+      "0IJMKGKk": {
+        "date": "2025-06-14",
+        "opponent": {
+          "username": "MeTooSlow",
+          "title": ""
+        },
+        "link": "https://lichess.org/0IJMKGKk/black"
+      },
+      "eB9IRZBW": {
+        "date": "2025-06-14",
+        "opponent": {
+          "username": "aIex_k",
+          "title": ""
+        },
+        "link": "https://lichess.org/eB9IRZBW/black"
       }
     },
     "flagOpponentWhoHadMateInOne": {
@@ -10983,6 +11191,14 @@
           "title": ""
         },
         "link": "https://lichess.org/hyV3fQzg#133"
+      },
+      "BWAKWURJ": {
+        "date": "2025-06-12",
+        "opponent": {
+          "username": "average-israeli",
+          "title": ""
+        },
+        "link": "https://lichess.org/BWAKWURJ/black#84"
       }
     },
     "castleAfterMove40": {
@@ -11645,6 +11861,14 @@
           "title": ""
         },
         "link": "https://lichess.org/grYgSoUq/black#5"
+      },
+      "L7eVEqyy": {
+        "date": "2025-06-12",
+        "opponent": {
+          "username": "Gyaggy17",
+          "title": ""
+        },
+        "link": "https://lichess.org/L7eVEqyy/black#3"
       }
     },
     "pawnDiamondSolid": {
@@ -11681,6 +11905,14 @@
           "title": ""
         },
         "link": "https://lichess.org/jj7EGJcW#7"
+      },
+      "bxoau9cy": {
+        "date": "2025-06-12",
+        "opponent": {
+          "username": "Gyaggy17",
+          "title": ""
+        },
+        "link": "https://lichess.org/bxoau9cy#7"
       }
     },
     "royalFamilyFork": {
@@ -12009,6 +12241,14 @@
           "title": ""
         },
         "link": "https://lichess.org/SdbD4znE#16"
+      },
+      "4QiNUg9n": {
+        "date": "2025-07-06",
+        "opponent": {
+          "username": "dennisderfischer",
+          "title": ""
+        },
+        "link": "https://lichess.org/4QiNUg9n/black#16"
       }
     },
     "castleKingsideWithCheckmate": {
