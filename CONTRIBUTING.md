@@ -1,13 +1,11 @@
 ## Some Ideas
 
 1. Add possible trophies for consideration (but it will depend on what the games look like):
-
     1. Crazy Rook
     1. "Windmill" trophy
     1. 2 knight vs pawn mate
 
 2. Shareable links
-
     - Generate a shareable link so others can see results and games
 
 3. Improve test coverage
