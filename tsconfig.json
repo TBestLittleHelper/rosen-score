@@ -8,6 +8,8 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "skipLibCheck": true,
-    "lib": ["DOM", "es2018"]
+    "lib": ["DOM", "es2018"],
+    "moduleResolution": "nodenext",
+    "module": "nodenext"
   }
 }
