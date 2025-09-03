@@ -35,7 +35,7 @@ export function avoidTheFlagCheckmate(game: Game): TrophyCheckResult {
         return []
     }
 
-    let timeRemainingTwentyMovesAgo = game.clocks.at(-39)
+    const timeRemainingTwentyMovesAgo = game.clocks[game.clocks.length - 39]
 
     if (timeRemainingTwentyMovesAgo && timeRemainingTwentyMovesAgo <= 110) {
         return [
