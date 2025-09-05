@@ -32,10 +32,6 @@
                                     <input type="radio" name="site" value="lichess" v-model="inputs.type" />
                                     Lichess
                                 </label>
-                                <label class="cursor-pointer ml-4">
-                                    <input type="radio" name="site" value="chesscom" v-model="inputs.type" />
-                                    Chess.com
-                                </label>
                             </div>
                         </div>
                         <div class="mt-2">
@@ -894,10 +890,7 @@ export default {
             let url = ''
             if (this.inputs.type === 'lichess') {
                 url = `https://lichess.org/@/${this.username}`
-            } else if (this.inputs.type === 'chesscom') {
-                url = `https://www.chess.com/member/${this.username}`
             }
-
             player(url)
                 .then(async (player: Profile) => {
                     this.player = player
@@ -958,18 +951,6 @@ export default {
             caches.set('https://lichess.org/@/massterofmayhem', '/cache/lichess/massterofmayhem.json')
             caches.set('https://lichess.org/@/penguingim1', '/cache/lichess/penguingim1.json')
             caches.set('https://lichess.org/@/saltyclown', '/cache/lichess/saltyclown.json')
-
-            caches.set('https://www.chess.com/member/alexandrabotez', '/cache/chesscom/alexandrabotez.json')
-            caches.set('https://www.chess.com/member/chessbrah', '/cache/chesscom/chessbrah.json')
-            caches.set('https://www.chess.com/member/danielnaroditsky', '/cache/chesscom/danielnaroditsky.json')
-            caches.set('https://www.chess.com/member/gothamchess', '/cache/chesscom/gothamchess.json')
-            caches.set('https://www.chess.com/member/hannahsayce', '/cache/chesscom/hannahsayce.json')
-            caches.set('https://www.chess.com/member/hikaru', '/cache/chesscom/hikaru.json')
-            caches.set('https://www.chess.com/member/imrosen', '/cache/chesscom/imrosen.json')
-            caches.set('https://www.chess.com/member/knvb', '/cache/chesscom/knvb.json')
-            caches.set('https://www.chess.com/member/magnuscarlsen', '/cache/chesscom/magnuscarlsen.json')
-            caches.set('https://www.chess.com/member/saltyclown', '/cache/chesscom/saltyclown.json')
-            caches.set('https://www.chess.com/member/witty_alien', '/cache/chesscom/witty_alien.json')
 
             if (!caches.has(url)) {
                 return
