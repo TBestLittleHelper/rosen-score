@@ -55,10 +55,7 @@
                                 <span class="dotted-underline text-sky-900 cursor-pointer" @click.prevent="formFill('lichess', 'EricRosen')">
                                     click here to see EricRosen's on Lichess
                                 </span>
-                                or
-                                <span class="dotted-underline text-sky-900 cursor-pointer" @click.prevent="formFill('chesscom', 'IMRosen')">
-                                    his Chess.com
-                                </span>
+
                             </div>
                         </div>
                     </div>
@@ -888,9 +885,7 @@ export default {
 
             // Auto correct Eric's usernames in case someone is trying to toggle between his Lichess and Chess.com
             // but forgets to change the username
-            if (this.username === 'ericrosen' && this.inputs.type === 'chesscom') {
-                this.inputs.value = 'IMRosen'
-            } else if (this.username === 'imrosen' && this.inputs.type === 'lichess') {
+            if (this.username === 'imrosen' && this.inputs.type === 'lichess') {
                 this.inputs.value = 'EricRosen'
             }
 

@@ -27,4 +27,4 @@ export type TrophyForGame = {
     }
 }
 
-export type ReportSource = 'lichess' | 'chesscom'
+export type ReportSource = 'lichess'
