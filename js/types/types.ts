@@ -1,6 +1,7 @@
 type TrophyForColor = {
     color: 'w' | 'b'
     onMoveNumber?: number
+    firstPieceMove?: number
 }
 
 export type TrophyCheckResult = TrophyForColor[]

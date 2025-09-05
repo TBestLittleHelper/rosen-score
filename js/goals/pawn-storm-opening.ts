@@ -17,10 +17,12 @@ export function pawnStormOpening(game: Game, moves: PgnMove[]): TrophyCheckResul
 
     let firstPieceMove = winnersMoves.indexOf('x')
     if (firstPieceMove >= 12) {
+        console.log(firstPieceMove, game.id, game.players.white, game.players.black)
         return [
             {
                 color: game.result.winner === 'white' ? 'w' : 'b',
                 onMoveNumber: firstPieceMove * 2,
+                firstPieceMove: firstPieceMove,
             },
         ]
     }
